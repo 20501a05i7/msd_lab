@@ -1,6 +1,17 @@
 {
     "name":"calc",
     "version":"0.0.1",
-    "main":"cal"
+    "main":"cal",
+    "repository":{
+        "type":"git",
+        "url": "https://github.com/20501a05i7/msd_lab"
+    },
+    "keywords":[
+        "cal","index"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
 
 }
