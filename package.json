@@ -1,0 +1,19 @@
+{
+    "author": "20501a05i7",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": 
+    {
+         "type": "git",
+        "url": "https://github.com/20501a05i7/msd_lab" },
+         "keywords": [
+         "censor",
+         "words"
+         ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+}
